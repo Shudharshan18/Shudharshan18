@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shudharshan18
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning on AI and ML
+- 🌱 I’m currently working on AI and ML
 - 📫 How to reach me jshudarshan@gmail.com
 - ⚡ Achievements:National coder,AI intern
