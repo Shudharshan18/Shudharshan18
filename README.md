@@ -1,82 +1,80 @@
-<!-- 🌌 Modern Futuristic GitHub Profile -->
+<!-- 🧠 Modern Developer Portfolio-Style README -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E7FF,100:8A2BE2&height=180&section=header&text=Hey,+I'm+Shudarshan+👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00E7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Data+Analyst+%7C+Problem+Solver;Lifelong+Learner+%F0%9F%8C%8C;Let's+Build+Something+Awesome+Together!+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=00E7FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Shudarshan+👋;Data+Analyst+%7C+Full-Stack+Developer;AI+%2B+Automation+%7C+Code+%2B+Logic" alt="Typing Intro" />
 
 ---
 
-### 🌟 About Me
+### 🪄 About Me
+> *I build data-driven systems that think, react, and scale.*
 
-💡 **Creative Developer** passionate about combining data, design, and AI.  
-🚀 Building intelligent systems using **C++, Python, React, and Flask**.  
-📊 Skilled in **data analysis, visualization, and database engineering**.  
-🧠 Always exploring how **AI** can make human work easier.  
-🎯 Current Focus: *AI-driven data platforms and cloud integration.*  
+🎯 **Focus:** AI-driven data platforms, backend logic, and dynamic dashboards  
+💻 **Stack:** React ⚛️ · Flask 🐍 · C++ ⚙️ · SQL 💾  
+🧩 **Interests:** Logic puzzles, systems design, and clean architecture  
+🌱 **Currently Exploring:** Data visualization automation with Python + AI  
 
----
-
-### ⚙️ Tech Stack
-
-#### 💻 Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,flask,nodejs,html,css,tailwind,mysql,postgresql" />
-</p>
-
-#### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman,notion,figma,vercel" />
-</p>
+</div>
 
 ---
 
-### 🪄 Featured Projects
+### 🧰 My Toolbox
 
-<p align="center">
-  <a href="https://github.com/JShudarshan/SmartDataAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JShudarshan&repo=SmartDataAI&theme=tokyonight&border_radius=10&hide_border=true" />
-  </a>
-  <a href="https://github.com/JShudarshan/VisualAnalyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JShudarshan&repo=VisualAnalyzer&theme=tokyonight&border_radius=10&hide_border=true" />
-  </a>
-</p>
+<div align="center">
+  
+| 💻 Languages | 🧠 Frameworks | ⚙️ Tools |
+| :----------- | :------------ | :------- |
+| Python 🐍 | React ⚛️ | Git / GitHub |
+| C++ ⚙️ | Flask 🧪 | Docker 🐳 |
+| JavaScript ⚡ | Node.js 🌿 | VS Code 💡 |
+| SQL 💾 | Pandas / NumPy 📊 | Postman 📬 |
 
----
-
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JShudarshan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JShudarshan&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JShudarshan&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
-</p>
+</div>
 
 ---
 
-### 💬 Let's Connect
+### 🧩 Featured Work
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yourname@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/JShudarshan"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-View-00E7FF?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-</p>
+<div align="center">
 
----
+| Project | Description | Tech |
+| :------ | :----------- | :--- |
+| [**SmartDataAI**](https://github.com/JShudarshan/SmartDataAI) | AI-powered analytics engine that processes raw data into insight. | Flask · Pandas · MySQL |
+| [**VisualAnalyzer**](https://github.com/JShudarshan/VisualAnalyzer) | Interactive graph-based tool for exploratory data visualization. | React · Flask · Chart.js |
 
-### 🧠 Dev Quote of the Day
-> “Code is poetry that machines can understand and humans can appreciate.” ✨
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JShudarshan&style=for-the-badge&color=00E7FF" alt="Profile Views" />
-</p>
+### 📈 GitHub Insights
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00E7FF&height=120&section=footer" />
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=JShudarshan&show_icons=true&theme=transparent&hide_border=true&title_color=00E7FF&icon_color=00E7FF&text_color=9f9f9f" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=JShudarshan&theme=transparent&hide_border=true&ring=00E7FF&fire=00E7FF&currStreakLabel=00E7FF" height="150" />
+
+</div>
+
+---
+
+### 🌍 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1DA1F2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/JShudarshan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00E7FF?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
+
+</div>
+
+---
+
+### ✨ Philosophy
+> “Simplicity isn’t about less design — it’s about meaningful clarity.”  
+> *– Shudarshan*
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E7FF,100:8A2BE2&height=120&section=footer" />
 </div>
