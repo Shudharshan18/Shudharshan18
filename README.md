@@ -1,80 +1,91 @@
-<!-- 🧠 Modern Developer Portfolio-Style README -->
+<!-- 🌿 Professional & Modern GitHub Profile README -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=00E7FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Shudarshan+👋;Data+Analyst+%7C+Full-Stack+Developer;AI+%2B+Automation+%7C+Code+%2B+Logic" alt="Typing Intro" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=160&section=header&text=Shudarshan&fontAlignY=35&fontColor=ffffff&fontSize=45" />
 
----
+<p>
+  <em>Data Analyst · Full-Stack Developer · AI Enthusiast</em>
+</p>
 
-### 🪄 About Me
-> *I build data-driven systems that think, react, and scale.*
-
-🎯 **Focus:** AI-driven data platforms, backend logic, and dynamic dashboards  
-💻 **Stack:** React ⚛️ · Flask 🐍 · C++ ⚙️ · SQL 💾  
-🧩 **Interests:** Logic puzzles, systems design, and clean architecture  
-🌱 **Currently Exploring:** Data visualization automation with Python + AI  
+<a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:yourname@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/JShudarshan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
 ---
 
-### 🧰 My Toolbox
+### 👋 About Me
+
+I'm **Shudarshan**, a developer passionate about building meaningful systems that connect **data, logic, and intelligence**.  
+I enjoy designing tools that simplify workflows, automate decisions, and create measurable impact.
+
+- 💡 **Current Focus:** AI-driven data analysis tools  
+- 🔭 **Building With:** Python, Flask, React, MySQL  
+- 🧠 **Learning:** C++ integrations & scalable backend architecture  
+- 🧩 **Interests:** Logic puzzles, analytics, and clean system design  
+
+---
+
+### 🧰 Core Technical Stack
+
+#### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+#### ⚙️ Frameworks & Tools
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+### 🚀 Highlighted Projects
+
+| Project | Description | Stack |
+|----------|--------------|-------|
+| [**SmartDataAI**](https://github.com/JShudarshan/SmartDataAI) | Intelligent analytics system that transforms raw data into insights | Flask · Pandas · MySQL |
+| [**VisualAnalyzer**](https://github.com/JShudarshan/VisualAnalyzer) | Real-time dashboard for exploring uploaded datasets | React · Flask · Chart.js |
+| [**SecureConnect**](https://github.com/JShudarshan/SecureConnect) | Token-based authentication system for DB access | Flask · JWT · PostgreSQL |
+
+---
+
+### 📊 GitHub Statistics
 
 <div align="center">
-  
-| 💻 Languages | 🧠 Frameworks | ⚙️ Tools |
-| :----------- | :------------ | :------- |
-| Python 🐍 | React ⚛️ | Git / GitHub |
-| C++ ⚙️ | Flask 🧪 | Docker 🐳 |
-| JavaScript ⚡ | Node.js 🌿 | VS Code 💡 |
-| SQL 💾 | Pandas / NumPy 📊 | Postman 📬 |
+
+<img src="https://github-readme-stats.vercel.app/api?username=JShudarshan&show_icons=true&theme=default&hide_border=true&title_color=3b82f6&icon_color=9333ea" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=JShudarshan&theme=default&hide_border=true&ring=3b82f6&fire=9333ea&currStreakLabel=3b82f6" height="165"/>
 
 </div>
 
 ---
 
-### 🧩 Featured Work
+### 🌱 Professional Philosophy
+> “Write code as if the next person maintaining it is a psychopath who knows where you live.”  
+> — *John F. Woods*
+
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
+<a href="https://github.com/JShudarshan"><img src="https://img.icons8.com/fluent/48/github.png" alt="GitHub"/></a>
+<a href="mailto:yourname@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" alt="Gmail"/></a>
+</p>
+
+---
 
 <div align="center">
-
-| Project | Description | Tech |
-| :------ | :----------- | :--- |
-| [**SmartDataAI**](https://github.com/JShudarshan/SmartDataAI) | AI-powered analytics engine that processes raw data into insight. | Flask · Pandas · MySQL |
-| [**VisualAnalyzer**](https://github.com/JShudarshan/VisualAnalyzer) | Interactive graph-based tool for exploratory data visualization. | React · Flask · Chart.js |
-
+  <img src="https://komarev.com/ghpvc/?username=JShudarshan&style=flat-square&color=3b82f6" alt="Profile Views"/>
 </div>
 
----
-
-### 📈 GitHub Insights
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JShudarshan&show_icons=true&theme=transparent&hide_border=true&title_color=00E7FF&icon_color=00E7FF&text_color=9f9f9f" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=JShudarshan&theme=transparent&hide_border=true&ring=00E7FF&fire=00E7FF&currStreakLabel=00E7FF" height="150" />
-
-</div>
-
----
-
-### 🌍 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1DA1F2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/JShudarshan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00E7FF?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)
-
-</div>
-
----
-
-### ✨ Philosophy
-> “Simplicity isn’t about less design — it’s about meaningful clarity.”  
-> *– Shudarshan*
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E7FF,100:8A2BE2&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:3b82f6&height=100&section=footer"/>
 </div>
