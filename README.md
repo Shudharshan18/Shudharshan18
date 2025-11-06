@@ -1,15 +1,13 @@
 <!-- 🌿 Professional & Modern GitHub Profile README -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=160&section=header&text=Shudarshan&fontAlignY=35&fontColor=ffffff&fontSize=45" />
 
 <p>
   <em>Data Analyst · Full-Stack Developer · AI Enthusiast</em>
 </p>
 
-<a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:yourname@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/JShudarshan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:jshudarshan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Shudharshan18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -21,7 +19,7 @@ I'm **Shudarshan**, a developer passionate about building meaningful systems tha
 I enjoy designing tools that simplify workflows, automate decisions, and create measurable impact.
 
 - 💡 **Current Focus:** AI-driven data analysis tools  
-- 🔭 **Building With:** Python, Flask, React, MySQL  
+- 🔭 **Building With:** Python, Flask, React, MySQL,RAG,Langchain + Langgraph
 - 🧠 **Learning:** C++ integrations & scalable backend architecture  
 - 🧩 **Interests:** Logic puzzles, analytics, and clean system design  
 
@@ -45,27 +43,6 @@ I enjoy designing tools that simplify workflows, automate decisions, and create 
 
 ---
 
-### 🚀 Highlighted Projects
-
-| Project | Description | Stack |
-|----------|--------------|-------|
-| [**SmartDataAI**](https://github.com/JShudarshan/SmartDataAI) | Intelligent analytics system that transforms raw data into insights | Flask · Pandas · MySQL |
-| [**VisualAnalyzer**](https://github.com/JShudarshan/VisualAnalyzer) | Real-time dashboard for exploring uploaded datasets | React · Flask · Chart.js |
-| [**SecureConnect**](https://github.com/JShudarshan/SecureConnect) | Token-based authentication system for DB access | Flask · JWT · PostgreSQL |
-
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=JShudarshan&show_icons=true&theme=default&hide_border=true&title_color=3b82f6&icon_color=9333ea" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=JShudarshan&theme=default&hide_border=true&ring=3b82f6&fire=9333ea&currStreakLabel=3b82f6" height="165"/>
-
-</div>
-
----
-
 ### 🌱 Professional Philosophy
 > “Write code as if the next person maintaining it is a psychopath who knows where you live.”  
 > — *John F. Woods*
@@ -75,17 +52,12 @@ I enjoy designing tools that simplify workflows, automate decisions, and create 
 ### 🌐 Let's Connect
 
 <p align="center">
-<a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
-<a href="https://github.com/JShudarshan"><img src="https://img.icons8.com/fluent/48/github.png" alt="GitHub"/></a>
-<a href="mailto:yourname@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" alt="Gmail"/></a>
+<a href="https://github.com/Shudharshan18"><img src="https://img.icons8.com/fluent/48/github.png" alt="GitHub"/></a>
+<a href="mailto:jshudarshan@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" alt="Gmail"/></a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JShudarshan&style=flat-square&color=3b82f6" alt="Profile Views"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:3b82f6&height=100&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=Shudharshan18&style=flat-square&color=3b82f6" alt="Profile Views"/>
 </div>
