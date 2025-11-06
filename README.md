@@ -19,7 +19,7 @@ I'm **Shudarshan**, a developer passionate about building meaningful systems tha
 I enjoy designing tools that simplify workflows, automate decisions, and create measurable impact.
 
 - 💡 **Current Focus:** AI-driven data analysis tools  
-- 🔭 **Building With:** Python, Flask, React, MySQL,RAG,Langchain + Langgraph
+- 🔭 **Building With:** Python, Flask, React, MySQL,RAG,Langchain + Langgraph,Agentic AI
 - 🧠 **Learning:** C++ integrations & scalable backend architecture  
 - 🧩 **Interests:** Logic puzzles, analytics, and clean system design  
 
